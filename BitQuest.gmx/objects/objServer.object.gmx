@@ -63,6 +63,7 @@ if(eid == network_type_connect)
         if(clients[i] &lt; 0)
         {
             clients[i] = ds_map_find_value(async_load, "socket");
+            break;
         }
     }
 }
