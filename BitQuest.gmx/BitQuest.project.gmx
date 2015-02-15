@@ -16,6 +16,7 @@
   <rooms name="rooms">
     <room>rooms\rmNetworkMenu</room>
     <room>rooms\rmServer</room>
+    <room>rooms\rmClient</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
