@@ -8,6 +8,15 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\objNetworkMenu</object>
+    <object>objects\objServer</object>
+    <object>objects\objClient</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rmNetworkMenu</room>
+    <room>rooms\rmServer</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
